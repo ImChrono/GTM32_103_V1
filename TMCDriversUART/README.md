@@ -1,4 +1,4 @@
-# GTM32_103_V1 UART Conversion
+# Geeetech A30T GTM32_103_V1 UART Conversion
 
 ## ⚠️ Attention: Proceed with Caution! ⚠️
 This modification involves delicate hardware changes that require precision and attention to detail. Mistakes in wiring or soldering can permanently damage your **GTM32_103_V1 board**. 
